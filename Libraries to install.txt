@@ -3,3 +3,5 @@ Pandas - Data manipulation and analysis
 Seaborn - Machine learning modelling and preprocessing
 
 Matplotlib and Scikit-learn - Visualization
+
+NumPy - numerical operations and array manipulation
